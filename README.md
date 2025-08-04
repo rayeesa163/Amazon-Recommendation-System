@@ -17,4 +17,8 @@ We used the Amazon Reviews dataset from Kaggle.
 git clone https://github.com/your-username/Amazon-Recommendation-System.git
 cd Amazon-Recommendation-System
 pip install -r requirements.txt
-  
+  ▶️ Run the app
+bash
+Copy
+Edit
+streamlit run app.py
